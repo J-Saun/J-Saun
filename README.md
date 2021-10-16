@@ -32,7 +32,7 @@ function Person(Joshua, Saunders, 39) {
 * [Blog](https://www.google.com)
 
 ## Contact Me
-* Email: Josh_Saun@protonmail
+* Josh_Saun@protonmail
 * [LinkedIn](https://www.google.com)
 * [Twitter](https://www.google.com)
 * [Instagram](https://www.google.com)
