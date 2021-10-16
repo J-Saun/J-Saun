@@ -33,6 +33,6 @@ function Person(Joshua, Saunders, 39) {
 
 ## Contact Me
 * Josh_Saun@protonmail
-* [LinkedIn](https://www.google.com)
+* [LinkedIn](https://www.linkedin.com/in/joshua-saunders-814699223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG611BtSdTESPPPMmbf5yLA%3D%3D)
 * [Twitter](https://www.google.com)
 * [Instagram](https://www.google.com)
