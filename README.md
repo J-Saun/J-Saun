@@ -36,7 +36,7 @@ function Person(Joshua, Saunders, 39) {
 ## Projects
 * [Portfolio](https://www.google.com)
 * [Beautiful Recursion](https://www.google.com)
-* [Age Calculator](https://www.google.com)
+* [Age Calculator](https://github.com/J-Saun/age_calculator/edit/master/README.md)
 * [API Playground](https://www.google.com)
 
 
