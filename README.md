@@ -1,7 +1,7 @@
 
 > ### Perfection of character is this: to live each day as if it were your last, without frenzy, without apathy, without pretence.
 >
-> #### Marcus Aurelius 
+> ####                                                                                                 -Marcus Aurelius 
 
 # Welcome to my Hub of Gits
 
@@ -35,6 +35,7 @@ function Person(Joshua, Saunders, 39) {
 * [Portfolio](https://www.google.com)
 * [Beautiful Recursion](https://www.google.com)
 * [Age Calculator](https://www.google.com)
+* [API Playground](https://www.google.com)
 
 
 ## Contact Me
