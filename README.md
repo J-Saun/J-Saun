@@ -15,12 +15,14 @@
 
 ```
 
-function Person(Joshua, Saunders, 39) {
-  this.firstName = first;
-  this.lastName = last;
-  this.age = age;
+function Person(firstName, lastName, birthYear) {
+  firstName: this.firstName,
+  lastName: this.lastName,
+  age: function() {
+    return currentYear - birthYear;
+  },
 }
-
+Person(Joshua, Saunders, 1982)
 ```
 
 ###### I'm A self-taught coder that's been blue collar all of my life. Strong work ethic and a passion for learning.
