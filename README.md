@@ -9,7 +9,7 @@
 * [About Me](#about-me)
 * [Tech Stack](#tech-stack)
 * [Projects](#projects)
-* [Contanct Me](#contact-me)
+* [Contact Me](#contact-me)
 
 ## About Me
 
