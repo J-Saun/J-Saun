@@ -17,8 +17,12 @@
 
 ## Tech Stack:
 * HTML
+* Ejs
 * CSS
 * Javascript
+* Express
+* MongoDb
+* Mongoose
 * SCSS
 * React
 * Next.js
