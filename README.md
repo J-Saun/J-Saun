@@ -13,8 +13,6 @@
 
 ## About Me
 
-```
-
 ###### I'm A self-taught coder that's been blue collar all of my life. Strong work ethic and a passion for learning new things.
 
 ## Tech Stack:
