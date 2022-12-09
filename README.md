@@ -1,8 +1,4 @@
 
-> ### Perfection of character is this: to live each day as if it were your last, without frenzy, without apathy, without pretence.
->
-> #### -Marcus Aurelius 
-
 # Welcome to my Hub of Gits
 
 ## Table of contents
