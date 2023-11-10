@@ -1,4 +1,4 @@
-
+s
 # Welcome to my Hub of Gits
 
 ## Table of contents
@@ -9,7 +9,7 @@
 
 ## About Me
 
-###### Hi there! My name is Joshua.
+#### Hi there! My name is Joshua.
 
 I'm a self-taught/bootcamp coder with a strong work ethic and a passion for learning new things. I specialize in building dynamic web applications using a variety of technologies, including HTML, CSS, Javascript, MongoDB, Mongoose, Express, React, Node, Ejs, MySQL, and PHP.
 <br><br>
