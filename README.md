@@ -19,13 +19,10 @@ Some of my recent projects are linked below.
 <br><br>
 
 --------------------------------------------------------------------------------------
-Portfolio| [Repo](https://www.google.com) |[ReadMe](https://www.google.com)l   | MERN
- -------------|--------------|---------------|---------------
-Portfolio | [Repo](https://www.google.com) |[ReadMe](https://www.google.com)l   | MERNl
- -------------|--------------|---------------|-------------- 
+Portfolio | [Repo](https://www.google.com) |[ReadMe](https://www.google.com)  | MERN
+Portfolio | [Repo](https://www.google.com) |[ReadMe](https://www.google.com)  | MERN
 Recipe  |[Repo](https://github.com/J-Saun/JCA_recipe) |[ReadMe](https://github.com/J-Saun/JCA_recipe)  | MERN
 Campgrounds  | [Repo](https://github.com/J-Saun/yelp_camp) | [ReadMe](https://github.com/J-Saun/yelp_camp)  | MERN
- -------------|--------------|---------------|---------------
 Fractal Tree  |  [Repo](https://github.com/J-Saun/Fractal-Tree) |  [ReadMe](https://github.com/J-Saun/Fractal-Tree)  | React
 
 ## Projects
