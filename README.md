@@ -30,8 +30,9 @@
 * [Lamp Portfolio](https://www.google.com)
 * [JCA LAMP Capstone](https://www.google.com)
 * [MERN Portfolio](https://www.google.com)
-* [MERN Yelp clone](https://github.com/J-Saun/age_calculator/edit/master/README.md)
-* [Beautiful Recursion](https://www.google.com)
+* [MERN Recipie App]([https://www.google.com](https://github.com/J-Saun/JCA_recipe))
+* [MERN Yelp clone](https://github.com/J-Saun/age_calculator/edit/master/README.md](https://github.com/J-Saun/yelp_camp))
+* [Fractal Tree]([https://www.google.com](https://github.com/J-Saun/Fractal-Tree))
 
 
 ## Contact Me
