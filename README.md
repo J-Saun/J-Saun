@@ -9,7 +9,8 @@
 
 ## About Me
 
-###### Hi there! My name is Joshua. 
+###### Hi there! My name is Joshua.
+
 I'm a self-taught/bootcamp coder with a strong work ethic and a passion for learning new things. I specialize in building dynamic web applications using a variety of technologies, including HTML, CSS, Javascript, MongoDB, Mongoose, Express, React, Node, Ejs, MySQL, and PHP.
 <br><br>
 With my blue-collar background, I bring a unique perspective to my coding and a commitment to getting the job done right. I'm always eager to take on new challenges and learn the latest techniques to improve my skills.
