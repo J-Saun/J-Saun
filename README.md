@@ -13,26 +13,28 @@
 
 ## Tech Stack:
 * HTML
-* Ejs
 * CSS
 * Javascript
-* Express
 * MongoDb
 * Mongoose
-* SCSS
+* Express
 * React
+* Node
+* Ejs
+* SCSS
+* MySQL
+* PHP
 * Next.js
 
 ## Projects
-* [Portfolio](https://www.google.com)
+* [Lamp Portfolio](https://www.google.com)
+* [JCA LAMP Capstone](https://www.google.com)
+* [MERN Portfolio](https://www.google.com)
+* [MERN Yelp clone](https://github.com/J-Saun/age_calculator/edit/master/README.md)
 * [Beautiful Recursion](https://www.google.com)
-* [Age Calculator](https://github.com/J-Saun/age_calculator/edit/master/README.md)
-* [API Playground](https://www.google.com)
 
 
 ## Contact Me
 * Josh_Saun@protonmail
 * [LinkedIn](https://www.linkedin.com/in/joshua-saunders-814699223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG611BtSdTESPPPMmbf5yLA%3D%3D)
 * [Twitter](https://www.google.com)
-* [Instagram](https://www.google.com)
-* [Learning Blog](https://www.google.com)
