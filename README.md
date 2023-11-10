@@ -20,13 +20,13 @@ Some of my recent projects are linked below.
 If you're looking for a developer with a strong work ethic and a passion for learning, you've come to the right place. Let's connect and see how I can help bring your ideas to life!
 
 ProjectName   |     Repo     |    ReadMe     |    Stack       
-------------- | -------------|---------------|-------------- 
+ -------------|--------------|---------------|-------------- 
 Content Cell  | Content Cell |Content Cell   | Content Cells
-------------- | -------------|---------------|---------------
+ -------------|--------------|---------------|---------------
 Content Cell  | Content Cell | Content Cell  | Content Cell
-------------- | -------------|---------------|-------------- 
+ -------------|--------------|---------------|-------------- 
 Content Cell  | Content Cell |Content Cell   | Content Cells
-------------- | -------------|---------------|---------------
+ -------------|--------------|---------------|---------------
 Content Cell  | Content Cell | Content Cell  | Content Cell
 
 ## Projects
