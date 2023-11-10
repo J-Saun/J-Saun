@@ -18,8 +18,7 @@ With my blue-collar background, I bring a unique perspective to my coding and a 
 Some of my recent projects are linked below.
 <br><br>
 
-ProjectName   |     Repo     |    ReadMe     |    Stack   s    
- -------------|--------------|---------------|-------------- 
+--------------------------------------------------------------------------------------
 Portfolio| [Repo](https://www.google.com) |[ReadMe](https://www.google.com)l   | MERN
  -------------|--------------|---------------|---------------
 Portfolio | [Repo](https://www.google.com) |[ReadMe](https://www.google.com)l   | MERNl
