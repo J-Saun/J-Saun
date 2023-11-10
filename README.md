@@ -17,17 +17,17 @@ With my blue-collar background, I bring a unique perspective to my coding and a 
 <br><br>
 Some of my recent projects are linked below.
 <br><br>
-If you're looking for a developer with a strong work ethic and a passion for learning, you've come to the right place. Let's connect and see how I can help bring your ideas to life!
 
-ProjectName   |     Repo     |    ReadMe     |    Stack       
+ProjectName   |     Repo     |    ReadMe     |    Stack   s    
  -------------|--------------|---------------|-------------- 
-Portfolio| [Lamp Portfolio](https://www.google.com) |[Lamp Portfolio](https://www.google.com)l   | MERN
+Portfolio| [Repo](https://www.google.com) |[ReadMe](https://www.google.com)l   | MERN
  -------------|--------------|---------------|---------------
-Content Cell  | Content Cell | Content Cell  | Content Cell
+Portfolio | [Repo](https://www.google.com) |[ReadMe](https://www.google.com)l   | MERNl
  -------------|--------------|---------------|-------------- 
-Content Cell  | Content Cell |Content Cell   | Content Cells
+Recipe  |[Repo](https://github.com/J-Saun/JCA_recipe) |[ReadMe](https://github.com/J-Saun/JCA_recipe)  | MERN
+Campgrounds  | [Repo](https://github.com/J-Saun/yelp_camp) | [ReadMe](https://github.com/J-Saun/yelp_camp)  | MERN
  -------------|--------------|---------------|---------------
-Content Cell  | Content Cell | Content Cell  | Content Cell
+Fractal Tree  |  [Repo](https://github.com/J-Saun/Fractal-Tree) |  [ReadMe](https://github.com/J-Saun/Fractal-Tree)  | React
 
 ## Projects
 * [Lamp Portfolio](https://www.google.com)
