@@ -1,4 +1,5 @@
 <br>
+
 # Welcome to my Github
 
 ## Table of contents
@@ -8,7 +9,9 @@
 * [Contact Me](#contact-me)
 
 ## About Me
+
 <a id="about-me />
+
 ### Hi there! My name is Joshua.
 
 - 🌱 I’m currently learning **PHP, MySQL, MongoDB**
