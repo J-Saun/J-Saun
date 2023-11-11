@@ -49,9 +49,7 @@ Check out some of my recent projects below to see what I can do! ## ⮋
 * PHP
 * Ejs
 
-### Contact
-
-- [LinkedIn](linkedin.com)
+-  [LinkedIn](https://www.linkedin.com/in/joshua-saunders-814699223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG611BtSdTESPPPMmbf5yLA%3D%3D)
 - Email: Joshua_Saun@protonmail.com
 
 #### Portfolio
@@ -59,9 +57,3 @@ Check out some of my recent projects below to see what I can do! ## ⮋
  - [LAMP](#)
 
    <br><br>
-
-
-## Contact Me
-* Josh_Saun@protonmail
-* [LinkedIn](https://www.linkedin.com/in/joshua-saunders-814699223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG611BtSdTESPPPMmbf5yLA%3D%3D)
-* [Twitter](https://www.google.com)
