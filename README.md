@@ -18,7 +18,7 @@
 > to my coding and a **commitment** to getting the _job done right_. I'm __**always**__ eager to take on
 > new challenges and learn the latest techniques to _improve my skills_.
 
-<br><br>
+<br>
 
 Check out some of my recent projects below to see what I can do!
 ## ⮋
