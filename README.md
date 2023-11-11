@@ -28,14 +28,15 @@
 
 ## Projects
 
-| ProjectName  |                         View code                         |                                   Docs                                    |       Hosted       | Stack |
-| :----------: | :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------: | :---: |
-|  Portfolio   |                         [❮／❯](#)                         |                                   [🗎](#)                                  | <a href="#">🌐</a> | LAMP  |
-| LAMP project |                         [❮／❯](#)                         |                                   [🗎](#)                                  | <a href="#">🌐</a> | LAMP  |
-|  Portfolio   |                         [❮／❯](#)                         |                                   [🗎](#)                                  | <a href="#">🌐</a> | MERN  |
-|  Recipe App  |  <a href="https://github.com/J-Saun/JCA_recipe">❮／❯</a>  | <a href="https://github.com/J-Saun/JCA_recipe/blob/master/README.md">🗎<a> | <a href="#">🌐</a> | MERN  |
-| Recreational |  <a href="https://github.com/J-Saun/yelp_camp">❮／❯</a>   |        <a href="https://github.com/J-Saun/yelp_camp#readme">🗎</a>         | <a href="#">🌐</a> | MERN  |
-| Fractal Tree | <a href="https://github.com/J-Saun/Fractal-Tree">❮／❯</a> |       <a href="https://github.com/J-Saun/Fractal-Tree#readme">🗎</a>       | <a href="#">🌐</a> | React |
+
+| ProjectName  |                         View code                         |                                   Docs                                    |       Hosted       | Stack |                                                                 Description                                                                 |
+| :----------: | :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+|  Portfolio   |                         [❮／❯](#)                         |                                  [🗎](#)                                   | <a href="#">🌐</a> | LAMP  |                                    A collection of MySQL & PHP projects demonstrating CRUD functionality                                    |
+| LAMP project |                         [❮／❯](#)                         |                                  [🗎](#)                                   | <a href="#">🌐</a> | LAMP  |                                      A project using Apache, MySQL, & PHP with full CRUD functionality                                      |
+|  Portfolio   |                         [❮／❯](#)                         |                                  [🗎](#)                                   | <a href="#">🌐</a> | MERN  |                          A collection of MongoDB, Express, React, & Node projects demonstrating CRUD functionality                          |
+|  Recipe App  |  <a href="https://github.com/J-Saun/JCA_recipe">❮／❯</a>  | <a href="https://github.com/J-Saun/JCA_recipe/blob/master/README.md">🗎<a> | <a href="#">🌐</a> | MERN  |                A MongoDB, Express, React, & Node project demonstrating CRUD functionality, registration, and custom styling                 |
+| Recreational |  <a href="https://github.com/J-Saun/yelp_camp">❮／❯</a>   |        <a href="https://github.com/J-Saun/yelp_camp#readme">🗎</a>         | <a href="#">🌐</a> | MERN  |                         A Yelp clone using MongoDB, Express, React, & Node with CRUD and registration functionality                         |
+| Fractal Tree | <a href="https://github.com/J-Saun/Fractal-Tree">❮／❯</a> |       <a href="https://github.com/J-Saun/Fractal-Tree#readme">🗎</a>       | <a href="#">🌐</a> | React | My very first React project. It's a fractal tree displayed on HTML Canvas. In here is pure chaos but I love to look at it from time to time |
 
 ### Tech Stack:
 <p>
