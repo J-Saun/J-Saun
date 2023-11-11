@@ -41,8 +41,6 @@
 ### Tech Stack:
 <p>
  
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)
- 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></a>
@@ -64,6 +62,9 @@
  ## Contact
  <br> 
 -  [LinkedIn](https://www.linkedin.com/in/joshua-saunders-814699223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG611BtSdTESPPPMmbf5yLA%3D%3D)
+
+- <a href="https://codepen.io/josh" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg](https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg)" alt="josh" height="30" width="50" /></a>
+
 - <a href="https://codepen.io/josh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josh" height="30" width="50" /></a>
 - ✉ Joshua_Saun@protonmail.com
 
