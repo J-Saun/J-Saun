@@ -21,7 +21,8 @@
 
 Check out some of my recent projects below to see what I can do! 
 
-<span style="fontSize:2em">⮋</span>
+<span style="fontSize:20px">⮋</span>
+<span style="width:200px">⮋</span>
 
 <br><br>
 
