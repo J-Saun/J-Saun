@@ -69,7 +69,9 @@
 
 <a href="https://codepen.io/josh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josh" height="30" width="50" /> Codepen</a>
 
-<a href="https://codepen.io/josh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="josh" height="30" width="50" /> Codepen</a>
+<a href="https://www.linkedin.com/in/brave-leo-22b9b1182/" target="_blank">
+  <img src="https://www.linkedin.com/img/Logo-Default-Small.svg" alt="LinkedIn logo">
+</a>
 
 #### Portfolio
 
