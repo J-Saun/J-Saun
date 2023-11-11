@@ -1,4 +1,4 @@
-s
+<br>
 # Welcome to my Github
 
 ## Table of contents
@@ -8,15 +8,21 @@ s
 * [Contact Me](#contact-me)
 
 ## About Me
-
+<a id="about-me />
 ### Hi there! My name is Joshua.
 
-I'm a self-taught/bootcamp coder with a strong work ethic and a passion for learning new things. I specialize in building dynamic web applications using a variety of technologies, including HTML, CSS, Javascript, MongoDB, Mongoose, Express, React, Node, Ejs, MySQL, and PHP.
+- 🌱 I’m currently learning **PHP, MySQL, MongoDB**
+
+>
+> I'm a self-taught/bootcamp coder with a strong work ethic and a passion for learning new things. I specialize in building dynamic web applications using a variety of technologies, including HTML, CSS, Javascript, MongoDB, > Mongoose, Express, React, Node, Ejs, MySQL, and PHP.
+> 
+> <br><br>
+> With my blue-collar background, I bring a unique perspective to my coding and a commitment to getting the job done right. I'm always eager to take on new challenges and learn the latest techniques to improve my skills.
+> <br><br>
+> Some of my recent projects are linked below.
 <br><br>
-With my blue-collar background, I bring a unique perspective to my coding and a commitment to getting the job done right. I'm always eager to take on new challenges and learn the latest techniques to improve my skills.
-<br><br>
-Some of my recent projects are linked below.
-<br><br>
+
+## Projects
 
 | ProjectName  |                         View code                         |                                   Docs                                    |       Hosted       | Stack |
 | :----------: | :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------: | :---: |
@@ -26,27 +32,20 @@ Some of my recent projects are linked below.
 |  Recipe App  |  <a href="https://github.com/J-Saun/JCA_recipe">❮／❯</a>  | <a href="https://github.com/J-Saun/JCA_recipe/blob/master/README.md">🗎<a> | <a href="#">🌐</a> | MERN  |
 | Recreational |  <a href="https://github.com/J-Saun/yelp_camp">❮／❯</a>   |        <a href="https://github.com/J-Saun/yelp_camp#readme">🗎</a>         | <a href="#">🌐</a> | MERN  |
 | Fractal Tree | <a href="https://github.com/J-Saun/Fractal-Tree">❮／❯</a> |       <a href="https://github.com/J-Saun/Fractal-Tree#readme">🗎</a>       | <a href="#">🌐</a> | React |
-## Projects
-* [Lamp Portfolio](https://www.google.com)
-* [JCA LAMP Capstone](https://www.google.com)
-* [MERN Portfolio](https://www.google.com)
-* [MERN Recipie App](https://github.com/J-Saun/JCA_recipe)
-* [MERN Yelp clone](https://github.com/J-Saun/yelp_camp)
-* [Fractal Tree](https://github.com/J-Saun/Fractal-Tree)
 
 ## Tech Stack:
 * HTML
 * CSS
 * Javascript
 * MongoDb
-* Mongoose
 * Express
 * React
 * Node
-* Ejs
-* SCSS
+* Mongoose
 * MySQL
 * PHP
+* Ejs
+* SCSS
 * Next.js
 
 ## Contact Me
