@@ -30,9 +30,9 @@
 
 | ProjectName  |                         View code                         |                                   Docs                                    |       Hosted       | Stack |
 | :----------: | :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------: | :---: |
-|  Portfolio   |                         [❮／❯](#)                         |                             <a href="#">🗎</a>                             | <a href="#">🌐</a> | LAMP  |
-| LAMP project |                   <a href="#">❮／❯</a>                    |                             <a href="#">🗎</a>                             | <a href="#">🌐</a> | LAMP  |
-|  Portfolio   |                   <a href="#">❮／❯</a>                    |                             <a href="#">🗎</a>                             | <a href="#">🌐</a> | MERN  |
+|  Portfolio   |                         [❮／❯](#)                         |                                   [🗎](#)                                  | <a href="#">🌐</a> | LAMP  |
+| LAMP project |                         [❮／❯](#)                         |                                   [🗎](#)                                  | <a href="#">🌐</a> | LAMP  |
+|  Portfolio   |                         [❮／❯](#)                         |                                   [🗎](#)                                  | <a href="#">🌐</a> | MERN  |
 |  Recipe App  |  <a href="https://github.com/J-Saun/JCA_recipe">❮／❯</a>  | <a href="https://github.com/J-Saun/JCA_recipe/blob/master/README.md">🗎<a> | <a href="#">🌐</a> | MERN  |
 | Recreational |  <a href="https://github.com/J-Saun/yelp_camp">❮／❯</a>   |        <a href="https://github.com/J-Saun/yelp_camp#readme">🗎</a>         | <a href="#">🌐</a> | MERN  |
 | Fractal Tree | <a href="https://github.com/J-Saun/Fractal-Tree">❮／❯</a> |       <a href="https://github.com/J-Saun/Fractal-Tree#readme">🗎</a>       | <a href="#">🌐</a> | React |
