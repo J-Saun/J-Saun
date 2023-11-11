@@ -1,4 +1,3 @@
-```
 ---
 # Frontmatter
 background: #FF69B4
@@ -77,5 +76,4 @@ background: #FF69B4
  - [LAMP](#)
 
    <br><br>
-```
 
