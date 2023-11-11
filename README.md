@@ -1,12 +1,12 @@
 <br><br>
 
-#  Welcome to my Github
+#  Welcome to my Github 👋
 
 <br><br>
 
 ## About Me
 
-### 👋Hi there! My name is Joshua.
+### Hi there! My name is Joshua.
 
 - 🌱 I’m currently learning **PHP, MySQL, MongoDB**
 
