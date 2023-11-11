@@ -12,7 +12,8 @@
 
 <br>
 
-> As a __self-taught__, **bootcamp-reinforced** developer with a strong work ethic and a passion for learning, I specialize in building __dynamic web applications__ using a variety of technologies. With a background in blue-collar work, I bring a unique perspective to my coding and a commitment to getting the _job done right_. I'm always eager to take on new challenges and learn the latest techniques to improve my skills.
+> As a __self-taught__, **bootcamp-reinforced** developer with a strong work ethic and a passion for learning, I specialize in building __dynamic web applications__ using a variety of technologies.
+> With a background in blue-collar work, I bring a unique perspective to my coding and a commitment to getting the _job done right_. I'm always eager to take on new challenges and learn the latest techniques to improve my skills.
 > <br>
 
 Check out some of my recent projects below to see what I can do!
