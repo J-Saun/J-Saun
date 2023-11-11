@@ -4,16 +4,7 @@
 
 <br><br>
 
-## Table of contents
-* [About Me](#about-me)
-* [Tech Stack](#tech-stack)
-* [Projects](#projects)
-* [Contact Me](#contact-me)
-
-<br><br>
-
-## About Me {#about-me}
-
+## About Me
 
 ### Hi there! My name is Joshua.
 
