@@ -19,7 +19,12 @@
 > new challenges and learn the latest techniques to _improve my skills_.
 > <br>
 
-Check out some of my recent projects below to see what I can do! <span style="font-size:2em">⮋</span>
+Check out some of my recent projects below to see what I can do! 
+
+```
+<span style="fontSize:2em">⮋</span>
+```
+
 <br><br>
 
 ## Projects
