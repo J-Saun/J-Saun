@@ -6,17 +6,19 @@
 
 ## About Me
 
-### Hi there! My name is Joshua.
+### 👋Hi there! My name is Joshua.
 
 - 🌱 I’m currently learning **PHP, MySQL, MongoDB**
 
 <br>
 
-> As a __self-taught__, **bootcamp-reinforced** developer with a strong work ethic and a passion for learning, I specialize in building __dynamic web applications__ using a variety of technologies.
-> With a background in blue-collar work, I bring a unique perspective to my coding and a commitment to getting the _job done right_. I'm always eager to take on new challenges and learn the latest techniques to improve my skills.
+> As a __self-taught__, **bootcamp-reinforced** developer with a strong work ethic and a passion for learning,
+> I specialize in building __dynamic web applications__ using a variety of technologies.
+> With a background in blue-collar work, I bring a unique perspective to my coding and a commitment to getting the _job done right_.
+> I'm always eager to take on new challenges and learn the latest techniques to improve my skills.
 > <br>
 
-Check out some of my recent projects below to see what I can do!
+Check out some of my recent projects below to see what I can do! ⮋
 <br><br>
 
 ## Projects
@@ -30,20 +32,27 @@ Check out some of my recent projects below to see what I can do!
 | Recreational |  <a href="https://github.com/J-Saun/yelp_camp">❮／❯</a>   |        <a href="https://github.com/J-Saun/yelp_camp#readme">🗎</a>         | <a href="#">🌐</a> | MERN  |
 | Fractal Tree | <a href="https://github.com/J-Saun/Fractal-Tree">❮／❯</a> |       <a href="https://github.com/J-Saun/Fractal-Tree#readme">🗎</a>       | <a href="#">🌐</a> | React |
 
-## Tech Stack:
+### Tech Stack:
 * HTML
 * CSS
+  * SCSS
 * Javascript
 * MongoDb
+  * Mongoose
 * Express
 * React
+  * Next.js
 * Node
-* Mongoose
 * MySQL
 * PHP
 * Ejs
-* SCSS
-* Next.js
+
+### Contact
+
+- [LinkedIn](linkedin.com)
+- Email: Joshua_Saun@protonmail.com
+
+
 
 ## Contact Me
 * Josh_Saun@protonmail
