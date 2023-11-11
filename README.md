@@ -30,7 +30,7 @@
 
 | ProjectName  |                         View code                         |                                   Docs                                    |       Hosted       | Stack |
 | :----------: | :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------: | :---: |
-|  Portfolio   |                   <a style:"textDecoration:none;" href="#">❮／❯</a>                    |                             <a href="#">🗎</a>                             | <a href="#">🌐</a> | LAMP  |
+|  Portfolio   |                         [❮／❯](#)                         |                             <a href="#">🗎</a>                             | <a href="#">🌐</a> | LAMP  |
 | LAMP project |                   <a href="#">❮／❯</a>                    |                             <a href="#">🗎</a>                             | <a href="#">🌐</a> | LAMP  |
 |  Portfolio   |                   <a href="#">❮／❯</a>                    |                             <a href="#">🗎</a>                             | <a href="#">🌐</a> | MERN  |
 |  Recipe App  |  <a href="https://github.com/J-Saun/JCA_recipe">❮／❯</a>  | <a href="https://github.com/J-Saun/JCA_recipe/blob/master/README.md">🗎<a> | <a href="#">🌐</a> | MERN  |
