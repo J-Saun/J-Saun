@@ -14,7 +14,9 @@
 
 ## About Me
 
+
 <a id="about-me />
+
 
 ### Hi there! My name is Joshua.
 
