@@ -67,18 +67,12 @@
  
 [LinkedIn](https://www.linkedin.com/in/joshua-saunders-814699223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG611BtSdTESPPPMmbf5yLA%3D%3D)
 
-<a href="https://codepen.io/josh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josh" height="30" width="50" /> Codepen</a>
-
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/2560px-LinkedIn_Logo_2013_%282%29.svg.png" target="_blank">
-  <img src="https://www.linkedin.com/img/Logo-Default-Small.svg" alt="LinkedIn logo">
-</a>
-
-
+[Codepen](codepen.com)
 
 #### Portfolio
 
  - [Mern](#)
  - [LAMP](#)
 
-   <br><br>
+<br><br>
 
