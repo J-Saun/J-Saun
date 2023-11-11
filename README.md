@@ -8,6 +8,8 @@
 
 ### Hi there! My name is Joshua.
 
+<br>
+
 - 🌱 I’m currently learning **PHP, MySQL, MongoDB**
 
 <br>
@@ -22,7 +24,7 @@
 
 ### ⮋ Check out some of my recent projects below to see what I can do! 
 
-<br><br>
+<br>
 
 ## Projects
 
