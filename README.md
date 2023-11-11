@@ -1,7 +1,8 @@
-<br>
-
+<br><br>
 
 #  Welcome to my Github
+
+<br><br>
 
 ## Table of contents
 * [About Me](#about-me)
