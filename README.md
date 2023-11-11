@@ -20,8 +20,7 @@
 
 <br>
 
-Check out some of my recent projects below to see what I can do!
-## ⮋
+Check out some of my recent projects below to see what I can do! ### ⮋
 
 <br><br>
 
