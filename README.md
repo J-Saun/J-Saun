@@ -63,9 +63,10 @@
  <br> 
 -  [LinkedIn](https://www.linkedin.com/in/joshua-saunders-814699223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG611BtSdTESPPPMmbf5yLA%3D%3D)
 
-- <a href="https://codepen.io/josh" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg](https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg)" alt="josh" height="30" width="50" /></a>
+- <a href="https://codepen.io/josh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josh" height="30" width="50" /></a>
 
 - <a href="https://codepen.io/josh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josh" height="30" width="50" /></a>
+
 - ✉ Joshua_Saun@protonmail.com
 
 #### Portfolio
