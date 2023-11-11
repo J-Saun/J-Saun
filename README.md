@@ -37,9 +37,6 @@
 | Recreational |  <a href="https://github.com/J-Saun/yelp_camp">❮／❯</a>   |        <a href="https://github.com/J-Saun/yelp_camp#readme">🗎</a>         | <a href="#">🌐</a> | MERN  |
 | Fractal Tree | <a href="https://github.com/J-Saun/Fractal-Tree">❮／❯</a> |       <a href="https://github.com/J-Saun/Fractal-Tree#readme">🗎</a>       | <a href="#">🌐</a> | React |
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-saun&show_icons=true&locale=en&layout=compact" alt="j-saun" /></p>
-
 ### Tech Stack:
 * <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  </a> 
