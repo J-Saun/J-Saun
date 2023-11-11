@@ -12,11 +12,11 @@
 
 <br>
 
-> As a _self-taught_, **bootcamp-reinforced** developer with a strong work ethic and
-> a passion for learning, I specialize in building __dynamic web applications__ using a
-> variety of technologies. With a background in blue-collar work, I bring a unique perspective
-> to my coding and a commitment to getting the _job done right_. I'm _*always*_ eager to take on
-> new challenges and learn the latest techniques to improve my skills.
+> As a _self-taught_, **bootcamp-reinforced** developer with a *strong* work ethic and
+> a _passion for learning_, I specialize in building __dynamic web applications__ using a
+> variety of technologies. With a background in blue-collar work, I bring a _unique perspective_
+> to my coding and a *commitment* to getting the _job done right_. I'm _*always*_ eager to take on
+> new challenges and learn the latest techniques to _improve my skills_.
 > <br>
 
 Check out some of my recent projects below to see what I can do! ⮋
