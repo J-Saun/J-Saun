@@ -12,10 +12,7 @@
 
 <br><br>
 
-## About Me
-
-
-<a id="about-me />
+## About Me {#about-me}
 
 
 ### Hi there! My name is Joshua.
