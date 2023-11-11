@@ -69,13 +69,11 @@
 
 <a href="https://codepen.io/josh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josh" height="30" width="50" /> Codepen</a>
 
-<a href="https://www.linkedin.com/in/brave-leo-22b9b1182/" target="_blank">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/2560px-LinkedIn_Logo_2013_%282%29.svg.png" target="_blank">
   <img src="https://www.linkedin.com/img/Logo-Default-Small.svg" alt="LinkedIn logo">
 </a>
 
-<a href="https://www.linkedin.com/in/brave-leo-22b9b1182/" target="_blank">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/2560px-LinkedIn_Logo_2013_%282%29.svg.png" alt="LinkedIn logo"> LinkedIn
-</a>
+
 
 #### Portfolio
 
