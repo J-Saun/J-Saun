@@ -9,6 +9,8 @@
 * [Projects](#projects)
 * [Contact Me](#contact-me)
 
+<br><br>
+
 ## About Me
 
 <a id="about-me />
