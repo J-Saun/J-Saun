@@ -1,8 +1,3 @@
----
-# Frontmatter
-background: #FF69B4
----
-
 <br><br>
 
 #  Welcome to my Github 👋
