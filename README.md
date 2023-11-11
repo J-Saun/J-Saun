@@ -12,7 +12,7 @@
 
 <br>
 
-> As a __self-taught__, **bootcamp-reinforced** developer with a strong work ethic and
+> As a _self-taught_, **bootcamp-reinforced** developer with a strong work ethic and
 > a passion for learning, I specialize in building __dynamic web applications__ using a
 > variety of technologies. With a background in blue-collar work, I bring a unique perspective
 > to my coding and a commitment to getting the _job done right_. I'm _*always*_ eager to take on
