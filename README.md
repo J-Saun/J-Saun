@@ -7,7 +7,7 @@
 
 ## About Me
 
-### Hi there! My name is Joshua.
+### Welcome to my Github! My name is Joshua.
 ### Hey 👋 What's up?
 
 <br>
