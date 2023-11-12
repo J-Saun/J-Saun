@@ -1,6 +1,5 @@
 <br><br>
 
-#  Welcome to my Github 👋
 # Hey 👋 What's up?
 
 <br><br>
@@ -8,7 +7,6 @@
 ## About Me
 
 ### Welcome to my Github! My name is Joshua.
-### Hey 👋 What's up?
 
 <br>
 
