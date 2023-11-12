@@ -14,11 +14,15 @@
 
 <br>
 
-> As a _self-taught_, **bootcamp-reinforced** developer with a **strong** work ethic and <br>
+>
+> As a _self-taught_, **bootcamp-reinforced** developer with a **strong** work ethic and
 > a _passion for learning_, I specialize in building _dynamic web applications_ using a
-> variety of technologies. With a background in blue-collar work, I bring a _unique perspective_
+> variety of technologies.
+>
+> With a background in blue-collar work, I bring a _unique perspective_
 > to my coding and a **commitment** to getting the _job done right_. I'm __**always**__ eager to take on
 > new challenges and learn the latest techniques to _improve my skills_.
+> 
 
 <br>
 
