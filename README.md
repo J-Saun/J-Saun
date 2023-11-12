@@ -12,6 +12,7 @@
 
 <br>
 
+- ✨ _Creating_ bugs since __2021__
 - 🌱 I’m currently learning **PHP, MySQL, MongoDB**
 
 <br>
