@@ -33,7 +33,7 @@
 ### Projects
 
 
-| ProjectName  |                         Code                         |                                   Docs                                    |       Hosted       | Stack |                                                                 Description                                                                 |
+| Project Name  |                         Code                         |                                   Docs                                    |       Hosted       | Stack |                                                                 Description                                                                 |
 | :----------: | :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------: | :---: | :----------------------------------------------------------------------------------------------------------------------------------------- |
 |  Portfolio   |                         [❮／❯](#)                         |                                  [🗎](#)                                   | <a href="#">🌐</a> | LAMP  |                                    A collection of MySQL & PHP projects demonstrating CRUD functionality                                    |
 | LAMP project |                         [❮／❯](#)                         |                                  [🗎](#)                                   | <a href="#">🌐</a> | LAMP  |                                      A project using Apache, MySQL, & PHP with full CRUD functionality                                      |
