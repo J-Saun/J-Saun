@@ -6,6 +6,8 @@
 
 ## Welcome to my Github! My name is Joshua.
 
+<br>
+
 ### About Me
 
 <br>
