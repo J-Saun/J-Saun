@@ -4,9 +4,9 @@
 
 <br><br>
 
-## About Me
+## Welcome to my Github! My name is Joshua.
 
-### Welcome to my Github! My name is Joshua.
+### About Me
 
 <br>
 
