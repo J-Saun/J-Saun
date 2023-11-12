@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning **PHP, MySQL, MongoDB**
 
 <br>
-
+<p style="fontSize:2rem;">
+ 
 >
 > As a _self-taught_, **bootcamp-reinforced** developer with a **strong** work ethic and
 > a _passion for learning_, I specialize in building _dynamic web applications_ using a
@@ -22,6 +23,7 @@
 > new challenges and learn the latest techniques to _improve my skills_.
 > 
 
+</p>
 <br>
 
 ### ⮋ Check out some of my recent projects below to see what I can do!
