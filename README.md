@@ -14,6 +14,7 @@
 
 - ✨ _Creating_ bugs since __2021__
 - 🌱 I’m currently learning **PHP, MySQL, MongoDB**
+- 🎯 Goals: Vacation, then Vue is next<br>
 
 <br>
  
