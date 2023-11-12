@@ -39,6 +39,7 @@
 |  Recipe App  |  <a href="https://github.com/J-Saun/JCA_recipe">❮／❯</a>  | <a href="https://github.com/J-Saun/JCA_recipe/blob/master/README.md">🗎<a> | <a href="#">🌐</a> | MERN  |                A MongoDB, Express, React, & Node project demonstrating CRUD functionality, registration, and custom styling                 |
 | Recreational |  <a href="https://github.com/J-Saun/yelp_camp">❮／❯</a>   |        <a href="https://github.com/J-Saun/yelp_camp#readme">🗎</a>         | <a href="#">🌐</a> | MERN  |                         A Yelp clone using MongoDB, Express, React, & Node with CRUD and registration functionality                         |
 | Fractal Tree | <a href="https://github.com/J-Saun/Fractal-Tree">❮／❯</a> |       <a href="https://github.com/J-Saun/Fractal-Tree#readme">🗎</a>       | <a href="#">🌐</a> | React | My very first React project. It's a fractal tree displayed on HTML Canvas. In here is pure chaos but I love to look at it from time to time |
+<br>
 
 ### Tech Stack:
 <p align="center">
