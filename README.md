@@ -2,7 +2,7 @@
 
 # Hey 👋 What's up?
 
-<br><br>
+<br>
 
 ## Welcome to my Github! My name is Joshua.
 
